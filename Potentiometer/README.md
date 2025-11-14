@@ -4,4 +4,4 @@ This is a simple project using a ESP-32 connected to a potentiometer that reads 
 
 ## Schematic Simulation
 
-![Schematic]()
+![Schematic](https://github.com/heloisaPazeti/SimpleEsp32Projects/blob/main/Potenciometer/images/schematicSimulation.png)
