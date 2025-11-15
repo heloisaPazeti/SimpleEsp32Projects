@@ -1,6 +1,6 @@
 # Timer with Button 
 
-This project features a timer built with a button, when clicked the button either stop or start the timer.
+This project features a timer built with a button, when clicked the button destroys the timer.
 
 ## Simulation Image
 
