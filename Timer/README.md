@@ -4,4 +4,4 @@ This project features a timer built with a button, when clicked the button eithe
 
 ## Simulation Image
 
-[!simulationImage](https://github.com/heloisaPazeti/SimpleEsp32Projects/blob/main/Timer/images/screenshot_20251115_192633.png)
+![simulationImage](https://github.com/heloisaPazeti/SimpleEsp32Projects/blob/main/Timer/images/screenshot_20251115_192633.png)
